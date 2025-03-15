@@ -1,5 +1,5 @@
 ## Hi there! I'm T'Shara 👋
-Software Developer | Pixel Artist | Writer
+**Software Developer | Pixel Artist | Writer**
 - - - -
 <!--
 **sharhaynes/sharhaynes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
