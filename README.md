@@ -25,8 +25,6 @@ A software developer, with a foundation in web design and a love for game develo
 
 ## 💻 LANGUAGES AND TOOLS
 
-## 💻 LANGUAGES AND TOOLS
-
 ### 🚀 Programming Tools
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>](https://www.python.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>](https://cplusplus.com/)
