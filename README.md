@@ -38,11 +38,11 @@ A software developer, with a foundation in web design and a love for game develo
 
 ---
 
-### 🎨 Design Tools
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-plain.svg" width="40" height="40" title="Lightroom"/>](https://www.adobe.com/products/photoshop-lightroom.html)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="40" height="40" title="GIMP"/>](https://www.gimp.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma"/>](https://www.figma.com/)
+## 🎨 Design Tools
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Adobe_Photoshop_Lightroom_CC_logo.svg" width="40" height="40" title="Lightroom"/>](https://www.adobe.com/products/photoshop-lightroom.html)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" width="40" height="40" title="GIMP"/>](https://www.gimp.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40" height="40" title="Figma"/>](https://www.figma.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Canva_Logo_2021.svg" width="40" height="40" title="Canva"/>](https://www.canva.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aseprite/aseprite-original.svg" width="40" height="40" title="Aseprite"/>](https://www.aseprite.org/)
+[<img src="https://raw.githubusercontent.com/aseprite/aseprite/main/data/icons/aseprite.ico" width="40" height="40" title="Aseprite"/>](https://www.aseprite.org/)
 
 ## 📝 BLOG POSTS
