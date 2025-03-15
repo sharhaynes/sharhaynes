@@ -39,7 +39,7 @@ A software developer, with a foundation in web design and a love for game develo
 ---
 
 ## 🎨 Design Tools
-[<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-plain.svg](https://www.flaticon.com/free-icon/photoshop-lightroom_5968514?term=adobe+lightroom&page=1&position=2&origin=tag&related_id=5968514)" width="40" height="40" title="Lightroom"/>](https://www.adobe.com/products/photoshop-lightroom.html)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-plain.svg](https://www.flaticon.com/free-icon/photoshop-lightroom_5968514?term=adobe+lightroom&page=1&position=2&origin=tag&related_id=5968514)](https://commons.wikimedia.org/wiki/File:Adobe_Photoshop_Lightroom_CC_logo.svg)" width="40" height="40" title="Lightroom"/>](https://www.adobe.com/products/photoshop-lightroom.html)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="40" height="40" title="GIMP"/>](https://www.gimp.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma"/>](https://www.figma.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Canva_Logo_2021.svg" width="40" height="40" title="Canva"/>](https://www.canva.com/)
