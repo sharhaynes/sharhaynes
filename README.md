@@ -39,12 +39,10 @@ A software developer, with a foundation in web design and a love for game develo
 ---
 
 ## 🎨 Design Tools
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-plain.svg](https://www.flaticon.com/free-icon/photoshop-lightroom_5968514?term=adobe+lightroom&page=1&position=2&origin=tag&related_id=5968514)](https://commons.wikimedia.org/wiki/File:Adobe_Photoshop_Lightroom_CC_logo.svg)" width="40" height="40" title="Lightroom"/>](https://www.adobe.com/products/photoshop-lightroom.html)
-
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Lightroom_CC_icon.png" width="40" height="40" title="Lightroom"/>](https://www.adobe.com/products/photoshop-lightroom.html)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="40" height="40" title="GIMP"/>](https://www.gimp.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma"/>](https://www.figma.com/)            
 [ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40" title="Canva"/>](https://www.canva.com/)
-
-[<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/aseprite/aseprite-original.svg](https://www.svgrepo.com/svg/329985/aseprite)" width="40" height="40" title="Aseprite"/>](https://www.aseprite.org/)
+[<img src="https://raw.githubusercontent.com/aseprite/aseprite/main/data/icons/aseprite.png" width="40" height="40" title="Aseprite"/>](https://www.aseprite.org/)
 
 ## 📝 BLOG POSTS
