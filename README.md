@@ -41,3 +41,4 @@ A software developer, with a foundation in web design and a love for game develo
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 [![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)](https://www.aseprite.org/)
 
+## 📝 BLOG POSTS
