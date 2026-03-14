@@ -54,11 +54,10 @@ A software developer, with a foundation in web design and a love for game develo
 
 ---
 ## 🎨 Design Tools
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Lightroom_CC_icon.png" width="40" height="40" title="Lightroom"/>](https://www.adobe.com/products/photoshop-lightroom.html)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="40" height="40" title="GIMP"/>](https://www.gimp.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma"/>](https://www.figma.com/)            
 [ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40" title="Canva"/>](https://www.canva.com/)
-[<img src="file:///C:/Users/hayne/Downloads/aseprite-svgrepo-com.svg" width="40" height="40" title="Aseprite"/>](https://www.aseprite.org/)
+
 
 ## 📝 BLOG POSTS
 
