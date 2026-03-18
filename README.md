@@ -1,4 +1,4 @@
-## Hi there! I'm T'Shara 👋
+## Hello! :D It's T'Shara 👋
 **Software Developer | Pixel Artist | Writer**
 - - - -
 <!--
