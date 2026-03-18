@@ -22,6 +22,7 @@ A software developer, with a foundation in web design and a love for game develo
 * ⌨️ Computer Science Representative - Faculty of Science and Technology, UWI Cave Hill
 * 📘 Secretary of the UWI Debate Society: June 2024- October 2025
 * 🖌️ Freelance artist and writer
+---
 
 ## 💻 LANGUAGES AND TOOLS
 
@@ -58,8 +59,6 @@ A software developer, with a foundation in web design and a love for game develo
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma"/>](https://www.figma.com/)            
 [ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40" title="Canva"/>](https://www.canva.com/)
 
-
-## 📝 BLOG POSTS
 
 ## 🔗 Let's Connect
 
